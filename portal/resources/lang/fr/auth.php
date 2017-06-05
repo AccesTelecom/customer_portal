@@ -11,5 +11,5 @@ return [
     |
     */
     'Échec' => 'Ces informations ne correspondent pas à nos données.',
-    'Erreur' => 'Trop de tentatives de connexion. Veuillez réessayer dans: secondes.',
+    'Erreur' => 'Trop de tentatives de connexion. Veuillez réessayer dans:seconds secondes.',
 ];
