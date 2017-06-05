@@ -10,6 +10,6 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'Échec' => 'Ces informations ne correspondent pas à nos données.',
+    'Erreur' => 'Trop de tentatives de connexion. Veuillez réessayer dans: secondes.',
 ];
