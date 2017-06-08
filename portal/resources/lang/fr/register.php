@@ -1,16 +1,16 @@
 <?php
 return [
-    'registrationDescription' => 'Let\'s look up your email address and find your account. Please enter the email address you receive your bill at below.',
-    'email' => 'Email Address',
-    'back' => 'Go back to the login page',
-    'creationDescription' => 'Let\'s get your account created! Enter your email address for verification, and then pick a username and password for your account and we\'ll make sure it\'s available.',
-    'username' => 'Username',
-    'password' => 'Password',
-    'confirmPassword' => 'Confirm Password',
-    'accountCreated' => 'Account created, please login to access your account.',
-    'forgotDescription' => 'Enter your email address below and we\'ll send you an email with your username and a link to reset your password.',
-    'passwordReset' => 'Password has been reset. Please login again.',
-    'resetDescription' => 'Please enter the email address for your account and a new password.',
+    'registrationDescription' => 'Entrez votre adresse courriel pour recevoir vos factures électroniques à cette adresse.',
+    'email' => 'Adresse courriel',
+    'back' => 'Revenir à la page de connexion',
+    'creationDescription' => 'Laissez-nous vous aider à vous créer un compte :)! Entrez votre adresse courriel pour la vérification et choisissez un nom d\'utilisateur (n\'importe lequel, on ne juge pas!) et votre mot de passe.',
+    'username' => 'Nom d\'utilisateur',
+    'password' => 'Mot de passe',
+    'confirmPassword' => 'Confirmer le mot de passe',
+    'accountCreated' => 'Compte créé avec succès :)! Connectez-vous pour accéder à votre compte.',
+    'forgotDescription' => 'Entrez votre adresse électronique ci-dessous et nous vous enverrons un courriel avec votre nom d\'utilisateur et un lien pour réinitialiser votre mot de passe.',
+    'passwordReset' => 'Le mot de passe a bien été réinitialisé. Vous pouvez maintenant vous connecter.',
+    'resetDescription' => 'Entrez l\'adresse courriel de votre compte et un nouveau mot de passe.',
 ];
 
 
