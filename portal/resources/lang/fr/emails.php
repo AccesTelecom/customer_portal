@@ -1,5 +1,5 @@
 <?php
 return [
-    'createAccount' => ':companyName customer portal account creation',
-    'passwordReset' => ':companyName password reset',
+    'createAccount' => 'Création d\'un compte client :companyName',
+    'passwordReset' => ':companyName réinitialiser le mot de passe',
 ];
