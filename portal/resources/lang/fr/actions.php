@@ -1,7 +1,7 @@
 <?php
 return [
-    'login' => 'Conenxion',
-    'makePayment' => 'Effectuer un paiement',
+    'login' => 'Connexion',
+    'makePayment' => 'Faire un paiement',
     'createTicket' => 'Ouvrir un billet',
     'lookupEmail' => 'Chercher l\'adresse courriel',
     'createAccount' => 'Créer un compte',
