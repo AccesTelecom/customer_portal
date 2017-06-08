@@ -10,6 +10,6 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'Échec' => 'Ces informations ne correspondent pas à nos données.',
-    'Erreur' => 'Trop de tentatives de connexion. Veuillez réessayer dans:seconds secondes.',
+    'Failed' => 'Ces informations ne correspondent pas à nos données.',
+    'Throttle' => 'Trop de tentatives de connexion. Veuillez réessayer dans:seconds secondes.',
 ];
