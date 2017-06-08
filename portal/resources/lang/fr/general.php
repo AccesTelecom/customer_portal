@@ -1,9 +1,9 @@
 <?php
 return [
     'date' => 'Date',
-    'amount' => 'Amount',
-    'accountNumber' => 'Account Number',
-    'notAvailable' => 'Not Available',
-    'yes' => 'Yes',
-    'no' => 'No',
+    'amount' => 'Montant',
+    'accountNumber' => 'Numéro de compte',
+    'notAvailable' => 'Non disponible',
+    'yes' => 'Oui',
+    'no' => 'Non',
 ];
