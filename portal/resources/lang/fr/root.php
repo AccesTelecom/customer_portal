@@ -1,9 +1,9 @@
 <?php
 return [
-    'username' => 'Username',
-    'password' => 'Password',
-    'register' => 'New portal user? Register an account here!',
-    'forgot' => 'Forgot username or password?',
-    'emailFound' => 'You will receive an email shortly with instructions on how to complete your account setup.',
-    'resetSent' => 'You will receive an email shortly with instructions on how to reset your password.',
+    'username' => 'Nom d\'utilisateur',
+    'password' => 'Mot de passe',
+    'register' => 'Nouveau client? Inscrivez-vous ici :)!',
+    'forgot' => 'Nom d\'utilisateur ou mot de passe oublié?',
+    'emailFound' => 'Vous recevrez rapidement un courriel contenant les instructions pour compléter votre inscription. Merci de nous faire confiance!',
+    'resetSent' => 'Vous recevrez rapidement un courriel électronique contenant les instructions pour réinitialiser votre mot de passe.',
 ];
