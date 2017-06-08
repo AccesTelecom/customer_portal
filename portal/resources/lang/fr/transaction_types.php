@@ -1,7 +1,7 @@
 <?php
 return [
-    'debit' => 'Charge',
-    'discount' => 'Credit',
-    'payment' => 'Payment - Thank you!',
-    'tax' => 'Tax (:type)',
+    'debit' => 'Débit',
+    'discount' => 'Crédit',
+    'payment' => 'Paiement - Merci beaucoup :)!',
+    'tax' => 'Taxes (:type)',
 ];
